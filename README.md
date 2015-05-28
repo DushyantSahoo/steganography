@@ -6,4 +6,4 @@ Hiding of encrypted text in images using DCT
 4) Huffman coding is then used for decreasing the length of the bits to be stored
 5) This is similar to jpeg compression
 
-Decodin is done by just reversing the above process
+Decoding is done by just reversing the above process
